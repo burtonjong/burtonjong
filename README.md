@@ -1,4 +1,4 @@
-    3rd year at University of Calgary.
+3rd year at University of Calgary.
 
 <br/>
 <br/>
